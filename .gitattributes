@@ -1,2 +1,3 @@
-*.* linguist-language=python
-*.* linguist-language=Python
+* linguist-language=python
+* linguist-language=Python
+"A Love Unspoken" linguist-language=python
